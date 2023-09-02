@@ -2,7 +2,8 @@
 ```markdown
 # Consultas SQL para Análise de Transações de Usuários
 
-Este repositório contém consultas SQL para realizar análises nas transações de usuários em um banco de dados.
+Este repositório contém consultas SQL para realizar análises nas transações de usuários
+em um banco de dados.
 Abaixo estão as consultas disponíveis juntamente com suas descrições:
 
 ## Consulta 1: Quanto tempo em média os usuários demoram entre o primeiro e segundo depósito
