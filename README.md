@@ -6,7 +6,7 @@ Este repositório contém consultas SQL para realizar análises nas transações
 em um banco de dados.
 Abaixo estão as consultas disponíveis juntamente com suas descrições:
 
-## Consulta 1: Quanto tempo em média os usuários demoram entre o primeiro e segundo depósito
+## Consulta 1: Quanto tempo em média os usuários demoram entre o primeiro e segundo depósito?
 
 Esta consulta calcula o tempo médio que os usuários demoram entre o primeiro e o segundo depósito.
 ```
@@ -41,7 +41,7 @@ group by
 ) as tr
 ```
 
-## Consulta 2: Quanto tempo em média os usuários demoram entre o terceiro e quarto depósito
+## Consulta 2: Quanto tempo em média os usuários demoram entre o terceiro e quarto depósito?
 
 Esta consulta calcula o tempo médio que os usuários demoram entre o terceiro e o quarto depósito.
 
