@@ -1,5 +1,8 @@
 ```markdown
-  Para criar as tabelas e dados rodar os comandos do arquivo: create_tables.sql
+  #DUMPS DO BANCO#
+  Para criar e popular a tabela users rodar o dump: users.sql
+  Para criar e popular a tabela wallets rodar o dump: wallets.sql
+  Para criar e popular a tabela transactions rodar o dump: transactions.sql
 ```
 
 ```markdown
