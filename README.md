@@ -1,3 +1,6 @@
+```markdown
+  Para criar as tabelas e dados rodar os comandos do arquivo: create_tables.sql
+```
 
 ```markdown
 # Consultas SQL para Análise de Transações de Usuários
